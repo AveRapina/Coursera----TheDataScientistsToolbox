@@ -1,4 +1,4 @@
-#Coursera----The_Data_Scientists_Toolbox
+#Coursera----TheDataScientistsToolbox
 
 
 #### All files on folder:
@@ -7,4 +7,4 @@
 #####- Peer
 #####- Material
 
-####@HSO 2015 
+#####@HSO 2015 
